@@ -1,0 +1,11 @@
+@echo off
+color a
+title HACK WINDOW
+msg * You've been hacked
+ipconfig
+@echo off
+tree
+ARP -a
+dir/s
+netstat -a
+ping www.google.com -t
