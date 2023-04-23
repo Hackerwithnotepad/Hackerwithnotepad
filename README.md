@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hackerwithnotepad
+- 👀 I’m interested in batch files and bad usb (rubber ducky)
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on: nothing
+- 📫 How to reach me: ido not know
